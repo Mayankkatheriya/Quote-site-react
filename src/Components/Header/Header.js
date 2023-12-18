@@ -6,7 +6,7 @@ function Header () {
             <div className="nav">
                 <a href = "/" className="nav-logo">
                     <img src={logo} alt="Logo" />
-                    <h1>GeeksFoods</h1>
+                    <h1>Quotes</h1>
                 </a>
                 <div className="nav-menu">
                     <ul>
