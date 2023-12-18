@@ -10,8 +10,8 @@ function Header () {
                 </a>
                 <div className="nav-menu">
                     <ul>
-                        <li><a href="/" style = {{color: "rgb(59, 130, 246)"}}>Home</a></li>
-                        <li><a href="/">Quote</a></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/" style = {{color: "rgb(59, 130, 246)"}}>Quote</a></li>
                         <li><a href="/">Resturants</a></li>
                         <li><a href="/">Foods</a></li>
                         <li><a href="/">Contact</a></li>
