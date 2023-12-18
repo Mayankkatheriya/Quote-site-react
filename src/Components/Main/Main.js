@@ -1,5 +1,5 @@
 import './Main.css';
-import {data} from './QuoteData'
+import data from './QuoteData.json'
 import Quote from './Quote'
 
 const Main = () => {
